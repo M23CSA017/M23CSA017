@@ -7,7 +7,8 @@
 
 - [![LinkedIn](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/prabhat-ranjan-iitj/)
 - [![GitHub](https://i.sstatic.net/tskMh.png)](https://github.com/M23CSA017)
-- [[LeetCode]](https://leetcode.com/u/_outlier/)
+- [LeetCode](https://leetcode.com/u/_outlier/)
+
 
 ---
 
