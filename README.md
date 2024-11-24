@@ -35,8 +35,8 @@
 <p align="center">
   - 👋 Hi, I’m Prabhat Ranjan<br>
   - 👀 I’m interested in Machine Learning<br>
-  - 🌱 I’m currently learning Generative Models<br>
-  - 📫 Reach me @ [prabhat.iitj23@gmail.com]<br>
+  - 🌱 I’m currently learning Generative AI<br>
+  - 📫 Reach me @ prabhat.iitj23@gmail.com<br>
 </p>
 
 <p align="center">
